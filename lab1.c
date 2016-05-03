@@ -113,7 +113,7 @@ int main()
     printf("%s = stroka\n", stroka);
     }//VIVOD TOKENOV
 
-    int n;
+   // int n;
     /*char* ch[261]={0};
     for (i = 0; i < j; i++)
 	{
